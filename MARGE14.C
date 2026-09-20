@@ -1,5 +1,5 @@
-/*Program(14):write a program to generate the multiple table of the any using while loop, do while loop, and for loop.
-
+/*Program(14):write a program to generate the multiple table of the any number using while loop, do while loop, and for loop.
+solution(1):using while loop/*
 #include<stdio.h>
 int main()
 {
